@@ -5,7 +5,7 @@ Bem-vindo ao Jogo de Adivinhação de Números, um jogo interativo em que o joga
 * Visão Geral 
 * Funcionalidades
 Pré-requisitos
-* [Como Jogar](#comojogar)
+* [Como Jogar](https://github.com/lsmatias/advinhacao/blob/main/README.md#como-jogar)
 * Instalação
 * Regras do Jogo
 * Exemplo de Uso
