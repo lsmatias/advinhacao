@@ -1,2 +1,1 @@
-# advinhacao
-Jogo de Adivinhação 
+# Jogo de Adivinhação
