@@ -24,7 +24,10 @@ Opção para reiniciar o jogo após o término.
 Pré-requisitos
 Para executar o jogo, você precisará do Python instalado no seu sistema. Recomenda-se a versão 3.6 ou superior.
 
-# Como Jogar
+## Como Jogar
+dsdsdsds
+sdsdsds
+sdsdsdsd
 
 Clone este repositório ou baixe o código fonte.
 Execute o arquivo jogo_adivinha.py em seu ambiente de desenvolvimento.
