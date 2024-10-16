@@ -2,11 +2,11 @@
 Bem-vindo ao Jogo de Adivinhação de Números, um jogo interativo em que o jogador tenta adivinhar um número secreto escolhido aleatoriamente pela máquina. A cada tentativa, o jogador recebe uma dica indicando se o número escolhido é maior ou menor do que o palpite. É um jogo divertido e desafiador para testar sua habilidade de adivinhar!
 
 ## Índice
-* Visão Geral 
-* Funcionalidades
-Pré-requisitos
+* [Visão Geral](https://github.com/lsmatias/advinhacao/blob/main/README.md#visão-geral) 
+* [Funcionalidades](https://github.com/lsmatias/advinhacao/blob/main/README.md#funcionalidades)
+* Pré-requisitos
 * [Como Jogar](https://github.com/lsmatias/advinhacao/blob/main/README.md#como-jogar)
-* Instalação
+* [Instalação](https://github.com/lsmatias/advinhacao/blob/main/README.md#instalação)
 * Regras do Jogo
 * Exemplo de Uso
 * Melhorias Futuras
