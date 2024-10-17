@@ -34,7 +34,7 @@ Tente adivinhar o número com base nas dicas fornecidas após cada tentativa.
 Você tem um número limitado de chances para acertar. Boa sorte!
 
 Clone este repositório ou baixe o código fonte.
-Execute o arquivo jogo_adivinha.py em seu ambiente de desenvolvimento.
+Execute o arquivo advinhacao.py em seu ambiente de desenvolvimento.
 Escolha o nível de dificuldade.
 Tente adivinhar o número com base nas dicas fornecidas após cada tentativa.
 Você tem um número limitado de chances para acertar. Boa sorte!
@@ -44,11 +44,11 @@ Siga estas instruções para instalar e configurar o jogo no seu ambiente local:
 
 1- Clone o repositório:
 ```
-git clone https://github.com/seu-usuario/jogo-adivinhacao.git
+git clone https://github.com/seu-usuario/advinhacao.py.git
 ```
 2-Navegue até o diretório do projeto:
 ```
-cd jogo-adivinhacao
+cd advinhacao.py
 ```
 
 3- Execute o jogo:
